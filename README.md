@@ -71,6 +71,5 @@ Logistic Regression had the best test F1, Random Forest found the most good lead
 - Jupyter Notebook
 
 ## Possible next steps
-- Save the data as a CSV in the repo so anyone can run the notebook without a database connection
 - Tune the models with GridSearchCV instead of hand-picked settings
 - Add call and follow-up details, since lead details alone cap the accuracy
